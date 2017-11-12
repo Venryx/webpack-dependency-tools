@@ -1,0 +1,26 @@
+{
+	"name": "webpack-dependency-tools",
+	"version": "0.0.1",
+	"description": "Scan your webpack project for cyclic-dependencies.",
+	"main": "Main.js",
+	"bin": {
+		"check-cyclic-deps": "./src/CheckCyclicDeps.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Venryx/webpack-dependency-tools.git"
+	},
+	"keywords": [
+		"react"
+	],
+	"author": {
+		"name": "Venryx",
+		"email": "venryx@gmail.com",
+		"url": "http://venryx.com"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Venryx/webpack-dependency-tools/issues"
+	},
+	"homepage": "https://github.com/Venryx/webpack-dependency-tools"
+}
