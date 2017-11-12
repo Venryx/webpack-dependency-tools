@@ -4,7 +4,7 @@
 	"description": "Scan your webpack project for cyclic-dependencies.",
 	"main": "Main.js",
 	"bin": {
-		"check-cyclic-deps": "./src/CheckCyclicDeps.js"
+		"check-cyclic-deps": "./Source/CheckCyclicDeps.js"
 	},
 	"repository": {
 		"type": "git",
