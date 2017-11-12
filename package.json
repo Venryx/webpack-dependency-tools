@@ -2,7 +2,7 @@
 	"name": "webpack-dependency-tools",
 	"version": "0.0.1",
 	"description": "Scan your webpack project for cyclic-dependencies.",
-	"main": "Main.js",
+	"main": "Source/Main.js",
 	"bin": {
 		"check-cyclic-deps": "./Source/CheckCyclicDeps.js"
 	},
