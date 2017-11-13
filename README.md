@@ -2,6 +2,12 @@
 
 Scan your webpack project for cyclic-dependencies.
 
+### Install
+
+```
+npm install --save webpack-dependency-tools
+```
+
 ### Usage
 
 ```
